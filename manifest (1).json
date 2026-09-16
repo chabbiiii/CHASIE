@@ -1,0 +1,12 @@
+{
+  "background_color": "#6f00ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CHASIE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Chasie",
+  "start_url": "./",
+  "theme_color": "#6f00ff",
+  "description": "Chicken Farm &amp; Incubation Manager"
+}

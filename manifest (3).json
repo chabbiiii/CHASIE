@@ -1,0 +1,33 @@
+{
+  "background_color": "#9600ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chasie",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Chasie",
+  "start_url": "./",
+  "theme_color": "#ffec00",
+  "description": "Chicken Farm &amp;amp;amp; Incubation Manager",
+  "id": "090674",
+  "lang": "en",
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay",
+    "minimal-ui",
+    "standalone"
+  ],
+  "categories": [
+    "business"
+  ],
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.egg.factory.inc.tycoon&amp;pli=1",
+      "id": "om.idle.egg.factory.inc.tycoon&amp;pli=1"
+    }
+  ],
+  "share_target": {
+    "method": "GET"
+  }
+}
